@@ -1,7 +1,9 @@
 <div>
-  <h4>:sassy_woman: All about me is at <a href="https://annchee.github.io/">My Website</a></h4>
-  <h4>:woman_technologist: Life Hack: Learn new tech :fire: and share what you have learned :tada:</h4>
-  <h4>:seedling: I’m currently learning Vue3, PHP & MySQL </h4>
+  <h4># Hi, I'm Ann :tada:</h4>
+  <h4>**Web Developer | PHP & JavaScript | eCommerce & Frontend Projects**</h4>
+  <h4>🌟 **About Me**</h4>  
+  <h4>I build clean, efficient, and user-friendly web applications.</h4> 
+  <h4>With 3+ years of experience in PHP and jQuery, I’m now exploring modern frontend technologies like React, Next.js, and Tailwind CSS.</h4>
   <p align="right"><small >:star2:  :star2: :star2:</small></p>
 </div>
 
